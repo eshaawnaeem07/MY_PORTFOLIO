@@ -7,18 +7,18 @@ const Project = () => {
     <div>
       <section
         id="projects"
-        className="text-stone-50 h-max w-full bg-[url('/images/pink.png')] bg-cover text-center "
+        className="text-stone-50 h-max bg-[url('/images/pink.png')] bg-cover text-center  "
       >
-        <div className="flex justify-center">
-          <div className="pt-[2rem] md:pt-[4rem] pb-[1rem] ">
+        <div className="">
+          <div className="pt-[2rem] md:pt-[4rem] pb-[1rem]">
             <h1 className="text-3xl md:text-5xl font-Merienda font-semibold hover:text-pink-300 md:pb-1 decoration-double">
               PROJECTS
             </h1>
           </div>
         </div>
 
-        <div className="w-[80%] pt-5 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[2rem] pb-12">
-          <div className="h-60 w-80 bg-[url('/images/pink.png')] shadow-sm shadow-pink-200 rounded-xl transform  hover:translate-y-6 transition-all duration-200">
+        <div className="w-[80%] pt-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[2rem] pb-12 mx-8 md:mx-28 ">
+          <div className=" h-60 w-80 bg-[url('/images/pink.png')] shadow-sm shadow-pink-200 rounded-xl transform  hover:translate-y-6 transition-all duration-200">
             <div className="flex flex-col gap-y-4 items-center p-4 ">
               {" "}
               <Image

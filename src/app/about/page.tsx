@@ -20,7 +20,7 @@ const About = () => {
           />
         </div>
 
-        <div className=" h-screen md:h-[400px] w-full md:w-[1000px] md:border border-1 border-fuchsia-200 rounded-xl leading-relaxed  md:leading-10 p-8 text-md md:text-xl font-lg font-sans md:tracking-wider sm:flex-wrap text-justify ">
+        <div className="h-screen md:h-[400px] w-full md:w-[1000px] md:border border-1 border-fuchsia-200 rounded-xl leading-relaxed  md:leading-10 p-8 text-md md:text-xl font-lg font-sans md:tracking-wider sm:flex-wrap text-justify">
           <div className="">
             <div className="flex-wrap ">
               <TypeAnimation
