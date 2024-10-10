@@ -53,10 +53,10 @@ const Contact = () => {
 
         <div className="flex justify-end pb-10 pt-5">
         <Image
-                src="/images/ayn01.jpg"
+                src="/images/picaa.png"
                 alt="Profile Img"
-                height={300}
-                width={400}
+                height={400}
+                width={600}
                 className="rounded-full border-4 border-white shadow-lg shadow-pink-200"
               />
         </div>

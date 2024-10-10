@@ -46,23 +46,23 @@ const Footer = () => {
   <div className="text-xl md:font-Merienda font-thin">
     <ul className="space-y-2 text-center md:text-left">
       <li>
-        <Link href="https://www.linkedin.com/in/aynnfatima3003/" target="_blank" className="text-slate-50 hover:text-pink-300">
+        <Link href="https://www.linkedin.com/in/eshaa-naeem-1a8854240" target="_blank" className="text-slate-50 hover:text-pink-300">
           LinkedIn
         </Link>
       </li>
       <li>
-        <Link href="https://github.com/AynnFatima999" target="_blank" className="text-slate-50 hover:text-pink-300">
+        <Link href="https://github.com/eshaawnaeem07" target="_blank" className="text-slate-50 hover:text-pink-300">
           GitHub
         </Link>
       </li>
       <li>
-        <Link href="https://www.npmjs.com/~alinafatima_09" target="_blank" className="text-slate-50 hover:text-pink-300">
+        <Link href="https://www.npmjs.com/~eshaaw_naeem07" target="_blank" className="text-slate-50 hover:text-pink-300">
           Npm
         </Link>
       </li>
       <li>
-        <Link href="https://wa.me/qr/MFUJXAY4J3A2H1" target="_blank" className="text-slate-50 hover:text-pink-300">
-          WhatsApp
+        <Link href="https://www.instagram.com/_exhaa.s_/" target="_blank" className="text-slate-50 hover:text-pink-300">
+          Instagram
         </Link>
       </li>
     </ul>
@@ -72,25 +72,25 @@ const Footer = () => {
 {/* Social Icons Section */}
 <div className="flex justify-center gap-2 pt-10 md:pt-12 pb-12">
   <SocialIcon
-    url="https://www.linkedin.com/in/aynnfatima3003/"
+    url="https://www.linkedin.com/in/eshaa-naeem-1a8854240"
     target="_blank"
     className="border-2 border-white rounded-full hover:-translate-x-2 duration-300"
     style={{ height: 40, width: 40 }} // Adjust the size here
   />
   <SocialIcon
-    url="https://github.com/AynnFatima999"
+    url="https://github.com/eshaawnaeem07"
     target="_blank"
     className="border-2 border-white rounded-full hover:-translate-x-2 duration-300"
     style={{ height: 40, width: 40 }} // Adjust the size here
   />
   <SocialIcon
-    url="https://discord.com/invite/rhVzkndC"
+    url="https://discord.com/channels/@me"
     target="_blank"
     className="border-2 border-white rounded-full hover:-translate-x-2 duration-300"
     style={{ height: 40, width: 40 }} 
   />
   <SocialIcon
-    url="https://pin.it/4jSvApYMU"
+    url="https://www.pinterest.com/eshaanaeem/"
     target="_blank"
     className="border-2 border-white rounded-full hover:-translate-x-2 duration-300"
     style={{ height: 40, width: 40 }} 

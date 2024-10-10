@@ -20,24 +20,23 @@ const Project = () => {
             <div className="flex flex-col gap-y-4 items-center p-4 ">
               {" "}
               <Image
-                src="/images/cal.avif"
+                src="/images/r.jpeg"
                 alt="Profile Img"
                 height={60}
                 width={60}
                 className="rounded-full border border-pink-200 shadow-sm shadow-black"
               />{" "}
               <Link
-                href="https://github.com/AynnFatima999/PROJECT01_CALCULATOR"
+                href="https://github.com/eshaawnaeem07/WeatherNow"
                 target="_blank"
               >
                 <p className="text-2xl text-pink-200 font-sans hover:font-Merienda font-light cursor-pointer hover:font-bold">
-                  CALCULATOR
+                  Weather Now
                 </p>
               </Link>
               <p className="pt-0 text-sm font-light font-sans">
-                A command-line interface calculator that performs basic
-                arithmetic operations, including addition, subtraction,
-                multiplication, and division.
+              WeatherNow is a web application designed to provide real-time weather information. 
+              The application will fetch weather data from a weather API and present it visually.
               </p>
             </div>
           </div>
@@ -46,24 +45,23 @@ const Project = () => {
             <div className="flex flex-col gap-y-4 items-center p-4 ">
               {" "}
               <Image
-                src="/images/atm.png"
+                src="/images/e-com.jpeg"
                 alt="Profile Img"
                 height={60}
                 width={60}
                 className="rounded-full border border-pink-200 shadow-sm shadow-black"
               />{" "}
               <Link
-                href="https://github.com/AynnFatima999/PROJECT03_ATM"
+                href="https://github.com/eshaawnaeem07/E-Commerce-website--Be-BOLD-"
                 target="_blank"
               >
                 <p className="text-2xl text-pink-200 font-sans font-light hover:font-Merienda  cursor-pointer hover:font-semibold">
-                  ATM
+                  Be-BOLD 
                 </p>
               </Link>
               <p className="pt-0 text-sm font-light font-sans">
-                This project is a command-line interface (CLI) ATM simulator
-                built with TypeScript and Inquirer.js, offering a virtual
-                banking experience..
+              This project is a comprehensive e-commerce website for a beauty and cosmetics brand called "Be Bold". 
+              The website is designed to provide a seamless user experience, showcasing various products & collections.
               </p>
             </div>
           </div>
@@ -72,24 +70,24 @@ const Project = () => {
             <div className="flex flex-col gap-y-4 items-center p-4 ">
               {" "}
               <Image
-                src="/images/todo.jpg"
+                src="/images/travel2.jpeg"
                 alt="Profile Img"
-                height={60}
-                width={60}
+                height={80}
+                width={80}
                 className="rounded-full border border-pink-200 shadow-sm shadow-black"
               />{" "}
               <Link
-                href="https://github.com/AynnFatima999/PROJECT04_TODO_APP"
+                href="https://github.com/eshaawnaeem07/Travel-Tour-website"
                 target="_blank"
               >
                 <p className="text-2xl text-pink-200 font-sans font-light  cursor-pointer hover:font-bold">
-                  TODO APP
+                  Travel tour website
                 </p>
               </Link>
               <p className="pt-0 text-sm font-light font-sans">
-                This project is a command-line interface (CLI) to-do list
-                application built with TypeScript and Inquirer.js, enabling
-                users to effectively manage their tasks.
+              This project built with HTML, CSS, and JavaScript, 
+              offers a seamless and visually stunning experience. Discover beautiful destinations, expert travel tips, 
+              and interactive features to make your trips unforgettable. 🌍✈️
               </p>
             </div>
           </div>
@@ -98,24 +96,23 @@ const Project = () => {
             <div className="flex flex-col gap-y-4 items-center p-4 ">
               {" "}
               <Image
-                src="/images/stop.jpg"
+                src="/images/code-editor.png"
                 alt="Profile Img"
                 height={60}
                 width={60}
                 className="rounded-full border border-pink-200 shadow-sm shadow-black"
               />{" "}
               <Link
-                href="https://github.com/AynnFatima999/PROJECT10_TIMER"
+                href="https://github.com/eshaawnaeem07/Functional-Code-editor"
                 target="_blank"
               >
                 <p className="text-2xl text-pink-200 font-sans hover:font-Merienda font-light cursor-pointer hover:font-bold">
-                  COUNTDOWN
+                  Functional Code Editor
                 </p>
               </Link>
               <p className="pt-0 text-sm font-light font-sans">
-                This command-line interface (CLI) countdown timer application,
-                developed with TypeScript and Inquirer.js, is designed to help
-                users effectively manage and track their time..
+              This HTML code editor is a web-based tool that enables users to write, execute, and preview HTML, CSS, and JavaScript code. 
+              It consists of three sections: HTML, CSS, and JS editors, each with a textarea for input.
               </p>
             </div>
           </div>
@@ -124,24 +121,23 @@ const Project = () => {
             <div className="flex flex-col gap-y-4 items-center p-4 ">
               {" "}
               <Image
-                src="/images/game.jpg"
+                src="/images/portfolio.jpeg"
                 alt="Profile Img"
                 height={60}
                 width={60}
                 className="rounded-full border border-pink-200 shadow-sm shadow-black"
               />{" "}
               <Link
-                href="https://github.com/AynnFatima999/PROJECT08_ADVENTURE_GAME"
+                href="https://github.com/eshaawnaeem07/myPortfolio"
                 target="_blank"
               >
                 <p className="text-2xl text-pink-200 font-sans font-light hover:font-Merienda cursor-pointer hover:font-bold">
-                  ADVENTURE GAME
+                  Portfolio-Website
                 </p>
               </Link>
               <p className="pt-0 text-sm font-light font-sans">
-                This project is a command-line interface (CLI) adventure game
-                developed with TypeScript and Inquirer.js, providing a
-                text-based interactive experience for players.
+               Portfolio website! Explore the "About Me" section to learn more about my journey, check out "My Skills" , meet "My Team" of collaborators,
+               and get in touch through the "Contact" section. 
               </p>
             </div>
           </div>
@@ -150,112 +146,26 @@ const Project = () => {
             <div className="flex flex-col gap-y-4 items-center p-4 ">
               {" "}
               <Image
-                src="/images/quiz.jpg"
+                src="/images/login.jpeg"
                 alt="Profile Img"
                 height={60}
                 width={60}
                 className="rounded-full border border-pink-200 shadow-sm shadow-black"
               />{" "}
               <Link
-                href="https://github.com/AynnFatima999/PROJECT_09_QUIZ"
+                href="https://github.com/eshaawnaeem07/Login-Register-page--React-"
                 target="_blank"
               >
                 <p className="text-2xl text-pink-200 font-sans font-light hover:font-Merienda cursor-pointer hover:font-bold">
-                  Quiz App
+                  Login/Register page
                 </p>
               </Link>
               <p className="pt-0 text-sm font-light font-sans">
-                A command-line interface calculator that performs basic
-                arithmetic operations, including addition, subtraction,
-                multiplication, and division.
+              This project Login/Register page built using React. It features a modern, user-friendly interface with 
+              form validation and error handling. The project utilizes React Hooks for state management and React Router.
               </p>
             </div>
           </div>
-
-          <div className="h-60 w-80 bg-[url('/images/pink.png')] shadow-sm shadow-pink-200 rounded-xl transform  hover:translate-y-6 transition-all duration-200">
-            <div className="flex flex-col gap-y-4 items-center p-4 ">
-              {" "}
-              <Image
-                src="/images/stm.png"
-                alt="Profile Img"
-                height={60}
-                width={60}
-                className="rounded-full border border-pink-200 shadow-sm shadow-black"
-              />{" "}
-              <Link
-                href="https://github.com/AynnFatima999/PRO07-STUDENT_MANAGMENT-SYSTEM"
-                target="_blank"
-              >
-                <p className="text-2xl text-pink-200 font-sans font-light hover:font-Merienda cursor-pointer hover:font-bold">
-                  STUDENT MANAGMENT
-                </p>
-              </Link>
-              <p className="pt-0 text-sm font-light font-sans">
-                This project is a command-line interface Student management
-                system developed using TypeScript and Inquirer.js, providing a
-                text-based interactive experience for managing student records.
-              </p>
-            </div>
-          </div>
-
-          <div className="h-60 w-80 bg-[url('/images/pink.png')] shadow-sm shadow-pink-200 rounded-xl transform  hover:translate-y-6 transition-all duration-200">
-            <div className="flex flex-col gap-y-4 items-center p-4 ">
-              {" "}
-              <Image
-                src="/images/cc.png"
-                alt="Profile Img"
-                height={60}
-                width={60}
-                className="rounded-full border border-pink-200 shadow-sm shadow-black"
-              />{" "}
-              <Link
-                href="https://github.com/AynnFatima999/PROJECT_CURRENCY_CONVERTER"
-                target="_blank"
-              >
-                <p className="text-2xl text-pink-200 font-sans font-light hover:font-Merienda cursor-pointer hover:font-bold">
-                  CURRENCY CONVERTER
-                </p>
-              </Link>
-              <p className="pt-0 text-sm font-light font-sans">
-                This project is a command-line interface (CLI) currency
-                converter built with TypeScript and Inquirer.js, offering an
-                interactive text-based experience for currency conversion.
-              </p>
-            </div>
-          </div>
-
-          <div className="h-60 w-80 bg-[url('/images/pink.png')] shadow-sm shadow-pink-200 rounded-xl transform  hover:translate-y-6 transition-all duration-200">
-            <div className="flex flex-col gap-y-4 items-center p-4 ">
-              {" "}
-              <Image
-                src="/images/word.png"
-                alt="Profile Img"
-                height={60}
-                width={60}
-                className="rounded-full border border-pink-200 shadow-sm shadow-black"
-              />{" "}
-              <Link
-                href="https://github.com/AynnFatima999/PROJECT06_WORD_COUNTER"
-                target="_blank"
-              >
-                <p className="text-2xl text-pink-200 font-sans font-light hover:font-Merienda cursor-pointer hover:font-bold">
-                  WORD COUNTER
-                </p>
-              </Link>
-              <p className="pt-0 text-sm font-light font-sans">
-                This project is a command-line interface (CLI) word counter
-                developed with TypeScript and Inquirer.js, providing an
-                interactive text-based experience for counting words.
-              </p>
-            </div>
-
-
-
-
-
-
-        </div>
-
 
       </div>
     </section>

@@ -26,7 +26,7 @@ const About = () => {
               <TypeAnimation
                 splitter={(str) => str.split(/(?= )/)}
                 sequence={[
-                  "I’m a passionate Front-End Web Developer with expertise in crafting visually appealing, responsive, and user-friendly websites. I specialize in HTML, CSS, JavaScript, and modern frameworks like Next.js and React, with a deep focus on Tailwind CSS for rapid, customizable UI design. My goal is to turn creative ideas into functional, high-performing websites that deliver seamless user experiences across devices. With a strong eye for design and attention to detail, I prioritize clean, maintainable code and optimized performance. Whether building dynamic single-page applications or robust websites, I aim to bridge the gap between design and development.Let’s create something amazing together!",
+                  "As a passionate computer science graduate, I bring a strong skill set to the table. My proficiency in web development—HTML, CSS, and JavaScript—allows me to create seamless and user-friendly websites. Additionally, I’m comfortable with programming languages  enabling me to build logic and solve complex problems. My experience with Git for version control ensures efficient collaboration, while my familiarity with SQL allows me to manage data effectively. Beyond technical abilities, I thrive in collaborative environments, having actively participated in hackathons. Strong communication skills and a Certified Full Stack Developer certification round out my profile. Feel free to explore my GitHub profile for a closer look at my projects!",
 
                   3000,
                   "",

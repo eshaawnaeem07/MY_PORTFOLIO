@@ -20,9 +20,9 @@ export default function Home() {
               <TypeAnimation
                 sequence={[
                   // Same substring at the start will only be typed out once, initially
-                  "Alina Fatima",
+                  "Eshaa Naeem",
                   1000, // wait 1s before replacing "Mice" with "Hamsters"
-                  "Frontend Developer",
+                  "Full Stack developer",
                   1000,
                 ]}
                 wrapper="span"
@@ -39,7 +39,7 @@ export default function Home() {
             </p>
             <div>
             <Link
-                href="aaleali999@gmail.com"
+                href="eshaanaeem07@gmail.com"
                 target="_blank"
               >
               <button className="px-6 py-3 rounded-full mr-4 bg-gradient-to-r from-pink-500 via-[#f1edf1] to-pink-500 hover:translate-y-2 text-black w-full sm:w-fit">
